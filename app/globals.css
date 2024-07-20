@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-img-home {
+    background-image: url("/bg-images/family-option.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
